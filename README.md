@@ -12,6 +12,7 @@ Describe the goal of your project here.
 
 ### Built With
 - List any languages, frameworks, tools, etc. that your project uses here
+- React.js
 
 ## Getting Started
 This is where you give instructions on how to run your project
