@@ -1,5 +1,5 @@
 _This is just a suggested template for the README of your project, feel free to modify this as you wish_
-# \[Project Title\]
+# \[MADEvents]
 
 ### Team Members
 - Isis Plesnikova (Project Lead)
@@ -12,6 +12,7 @@ Describe the goal of your project here. To make a map of Madison events
 
 ### Built With
 - List any languages, frameworks, tools, etc. that your project uses here
+- React.js
 
 ## Getting Started
 This is where you give instructions on how to run your project
