@@ -1,5 +1,5 @@
 _This is just a suggested template for the README of your project, feel free to modify this as you wish_
-# \[MADEvents]
+# MADEvents
 
 ### Team Members
 - Isis Plesnikova (Project Lead)
@@ -8,16 +8,12 @@ _This is just a suggested template for the README of your project, feel free to 
 - Saniya
 
 ### Project Description
-Describe the goal of your project here. To make a map of Madison events
+Mapping Madison events for both students and community members to stay in the loop.
 
 ### Built With
-- List any languages, frameworks, tools, etc. that your project uses here
-- React.js
+Vue.js and Springboot
 
 ## Getting Started
-This is where you give instructions on how to run your project
-
-### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
 * npm (Node JS)
@@ -43,4 +39,4 @@ _Below is an example of how you can instruct your audience on installing and set
    const API_KEY = 'ENTER YOUR API';
    ```
 ## Demo
-If your app is hosted on a published website, include the link here
+TBA
